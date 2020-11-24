@@ -1,13 +1,15 @@
 certifi==2020.11.8
-cffi @ file:///C:/ci/cffi_1605538151928/work
+cffi @ file:///C:/ci/cffi_1605538112425/work
+future==0.18.2
 mkl-fft==1.2.0
-mkl-random==1.1.1
+mkl-random==1.1.0
 mkl-service==2.3.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
-Pillow==8.0.1
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1603823068645/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 PyYAML==5.3.1
-six @ file:///C:/ci/six_1605187303045/work
-torch==1.4.0
-torchvision==0.5.0
+six @ file:///C:/ci/six_1605187374963/work
+torch @ file:///C:/ci/pytorch_1596373105144/work
+torchvision==0.7.0
 wincertstore==0.2
